@@ -33,8 +33,9 @@ input{
 
 }
 input::placeholder{
-    color: #FFFFFF;
+    color: white;
 }
+
 button{
     border: none;
     width: 60px;
